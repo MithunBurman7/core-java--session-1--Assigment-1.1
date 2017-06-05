@@ -1,0 +1,5 @@
+Java known to be platform independent language because java has its own JRE-(Java Runtime Environment)file.
+The JRE provides us the same environmrnt on any platform or operating system to run the program. 
+for example if I creates a program on windows, with the help of JRE I also cas run it on linux,dos, etc most of the any operating system.    
+
+ 
